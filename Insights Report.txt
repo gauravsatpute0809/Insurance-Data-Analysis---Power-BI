@@ -1,0 +1,19 @@
+## 📊 Project Insights
+
+After analyzing the insurance dashboard, several important insights were observed.
+
+The total premium amount is 5.98M, while the total coverage amount is much higher at 600.55M. This shows that the company is handling high-value policies while collecting a relatively smaller premium, which is common in the insurance industry but also indicates potential risk exposure.
+
+The total claim amount is 16.91M, which needs to be monitored closely because higher claims can impact overall profitability.
+
+When looking at policy types, Travel insurance generates the highest premium, followed by Health and Auto. On the other hand, Home and Life insurance contribute less to total premium, which may indicate lower demand or fewer policies in these categories.
+
+The active vs inactive policy distribution shows that active policies are higher than inactive ones, which is a good sign for business continuity and customer retention.
+
+Claim status analysis shows that rejected claims are the highest, followed by settled and pending claims. A high number of rejected claims may indicate strict approval criteria or possible issues in claim requests.
+
+Age group analysis reveals that elder customers generate the highest claim amount, while adults and young adults contribute significantly less. This suggests that older customers are more likely to file claims, which is expected in insurance.
+
+Gender distribution shows a nearly equal number of male and female customers, indicating balanced customer demographics.
+
+Overall, the dashboard provides a clear understanding of policy performance, claim behavior, and customer distribution, which can help in improving risk management, pricing strategies, and customer targeting.
